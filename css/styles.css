@@ -20,20 +20,16 @@ h3 {
 
 .top-container {
 	background-color: #e3f6f5;
-	position: relative;
-	padding-top: 100px;
+	
 }
 
 .middle-container {
-	background-color: #bae8e8;
-	width: 200px;
-	height: 200px;
+
 }
+	
 
 .bottom-container {
-	background-color: #ffc5a1;
-	width: 200px;
-	height: 200px;
+
 }
 
 .top-cloud {
@@ -44,6 +40,11 @@ h3 {
 
 .bottom-cloud {
 	position: absolute;
-	left: 300px;
-	bottom: 300px;
+	left: 500px;
+	bottom: 700px;
+}
+
+.me {
+	height: 500px;
+	width: 500px;
 }
