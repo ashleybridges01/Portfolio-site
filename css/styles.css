@@ -6,14 +6,14 @@ body {
 }
 
 h1 {
-	 color: #66BFBF;
+	 color: #fcf9ea;
   font-size: 5.625rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
 }
 
 h2 {
-	color: #66BFBF;
+	color: #11999E;
   	font-family: 'Montserrat', sans-serif;
   	font-size: 2.5rem;
   	font-weight: normal;
@@ -22,7 +22,7 @@ h2 {
 }
 
 #programmer {
-	color: #66BFBF;
+	color: #fcf9ea;
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
@@ -64,7 +64,7 @@ a:Hover {
 }
 
 .inner-header {
-	width: 60%;
+	width: 800px;
 	height: 100%;
 	display: block;
 	margin: 0 auto;
@@ -77,10 +77,12 @@ a:Hover {
 .nav-icon {
 	height: 100%;
 	width: auto;
+	padding-left: 0;
+	float: left;
 }
 
 .top-container {
-	background-color: #e3f6f5;
+	background-color: #ffc5a1;
 	position: relative;
   	padding-top: 100px;
 	
@@ -109,7 +111,7 @@ a:Hover {
 	
 
 .bottom-container {
-	background-color: #badfdb;
+	background-color: #ffc5a1;
 	padding: 50px 0 20px;
 }
 
@@ -139,6 +141,7 @@ a:Hover {
 	height: 500px;
 	width: 500px;
 	margin-bottom: -120px;
+	margin-top: -120px;
 }
 
 .about {
@@ -146,7 +149,7 @@ a:Hover {
 	margin: auto;
 }
 
-.skill-row {
+.interests-row {
 	width: 50%;
 	margin: 100px auto 100px auto;
 	text-align: left;
@@ -197,7 +200,7 @@ a:Hover {
 }
 
 .copyright {
-	color: #11999E;
+	color: #fcf9ea;
 	font-size: 0.75rem;
 	padding: 20px 0;
 }
