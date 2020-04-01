@@ -55,6 +55,7 @@ a {
 
 a:Hover {
 	color: #EAF6F6;
+	cursor: pointer;
 }
 
 .header{
@@ -82,7 +83,7 @@ a:Hover {
 }
 
 .top-container {
-	background-color: #badfdb;
+	background-color: #e3f6f5;
 	position: relative;
   	padding-top: 100px;
 	
@@ -111,7 +112,7 @@ a:Hover {
 	
 
 .bottom-container {
-	background-color: #badfdb;
+	background-color: #e3f6f5;
 	padding: 50px 0 20px;
 }
 
