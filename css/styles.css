@@ -292,3 +292,14 @@ margin: 40px;
 	position: absolute;
 	background-color: white;
 }
+
+.blog-text {
+	text-align: left;
+	margin: 0 80px 0 80px;
+}
+
+.blog-text br {
+	display: block;
+	margin: 25px 0;
+	content: " ";
+}
