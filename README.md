@@ -28,7 +28,8 @@ The blog link will direct users to a series of blogs.
 
 ## Screenshots
 
-![](resources/wireframe.png)
+![](resources/wireframe.PNG)
+![](resources/blog.PNG)
 
 ## Target Audience
 
