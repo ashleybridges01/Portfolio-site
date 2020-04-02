@@ -235,6 +235,7 @@ a:Hover {
 .family {
 	height: 300px;
 	width: auto;
+	border-radius: 15px;
 	/*margin-bottom: -80px;
 	margin-top: -80px;*/
 }
@@ -255,16 +256,11 @@ margin: 40px;
   z-index: 1;
   top: 500px;
   right: 0;
-  /*background: #eee;*/
-  overflow-x: hidden;
-  align-content: center;
-  border-radius: 15px;
-  /*padding: 8px 0;*/
 }
 
 .sidenav img {
-  /*padding: 6px 8px 6px 16px;*/
-  width: 50px;
+  padding: 12px 8px 6px 16px;
+  width: 40px;
   height: auto;
   display: block;
 }
