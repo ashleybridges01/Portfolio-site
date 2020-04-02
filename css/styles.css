@@ -83,7 +83,7 @@ a:Hover {
 }
 
 .top-container {
-	background-color: #e3f6f5;
+	background-color: #ffc5a1;
 	position: relative;
   	padding-top: 10px;
 	
@@ -98,8 +98,8 @@ a:Hover {
 .navigation a li {
 	display: table-cell;
 	vertical-align: : middle;
-	height: 100%;
-	font-size: 20px;
+	height:100%;
+	font-size:20px;
 }
 
 .navigation a:last-child{
