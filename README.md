@@ -28,6 +28,16 @@ The blog link will direct users to a series of blogs.
 
 ## Screenshots
 
+[Resources/wireframe.png]
+
 ## Target Audience
 
+This site has two target audiences; Employers and project leads.
+
 ## Tech Stack
+
+The current deployment platform is Github since it is free. Once the sites content is fully finished with the Lorem Ipsom's replaces with real content the site will be moved to a permanent address.
+
+HTML is used for site content
+
+CSS is used for styling and positioning of elements.
