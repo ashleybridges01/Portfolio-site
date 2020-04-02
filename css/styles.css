@@ -116,6 +116,16 @@ a:Hover {
 	padding: 50px 0 20px;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #e3f6f5;
+  color: white;
+  text-align: center;
+}
+
 .top-cloud {
 	position: absolute;
   right: 250px;
@@ -206,4 +216,11 @@ a:Hover {
 	color: #11999E;
 	font-size: 0.75rem;
 	padding: 20px 0;
+}
+
+.family {
+	height: 300px;
+	width: auto;
+	/*margin-bottom: -80px;
+	margin-top: -80px;*/
 }
