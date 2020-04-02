@@ -168,6 +168,10 @@ a:Hover {
 	text-align: left;
 } 
 
+.blue-container {
+	background-color: #e3f6f5;
+}
+
 .ui {
 	width: 25%;
 	float: left;
@@ -223,4 +227,13 @@ a:Hover {
 	width: auto;
 	/*margin-bottom: -80px;
 	margin-top: -80px;*/
+}
+
+.myimages { white-space: nowrap; }
+.myimages img {
+height: 150px;
+width: auto;
+display: inline-block;
+/*float: center;*/
+margin: 40px;
 }
